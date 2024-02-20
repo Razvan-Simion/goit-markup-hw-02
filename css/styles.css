@@ -1,0 +1,71 @@
+
+h1{
+    font-family: "roboto",sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 2%;
+}
+h2 {
+    font-family: "roboto",sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 2%;
+}
+h3 {
+    font-family: "roboto",sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2%;
+Size: 20px
+}
+/* Global stile */
+body{
+    font-family: "roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+/* logo */
+.web {
+    color: #4D5AE5;
+    font-family: "raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.studio {
+    color: #2E2F42;
+    font-family: "raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.main-nav, li {
+    display: inline-block;
+}
+ul {
+    list-style-type: none;
+}
+.header a:hover {
+    color: #404BBF;
+}
+.header a:active {
+    color: #4D5AE5;
+    text-decoration: underline;
+}
+.header a {
+    text-decoration: none;
+    color: #434455;
+}
+.hero-section {
+    background-color: #2E2F42;
+    color: #ffffff;
+}
